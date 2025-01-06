@@ -1,1 +1,3 @@
 My first file, let's learn git the hard way
+
+This is more text
