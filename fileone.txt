@@ -1,0 +1,1 @@
+My first file, let's learn git the hard way
